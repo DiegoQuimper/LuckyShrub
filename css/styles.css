@@ -1,18 +1,18 @@
 @font-face {
-    src: url('/fonts/SugoPro.ttf');
+    src: url('../SugoPro.ttf');
     font-family: 'Sugo';
 
 }
 
 @font-face {
-    src: url('/fonts/cretype  Artico Condensed Light.ttf');
+    src: url('../fonts/cretype  Artico Condensed Light.ttf');
     font-family: 'Artico';
 
 }
 
 body {
     /*background-color: #dbfdfe;*/
-    background-image: linear-gradient(to top, #467bbbba, #55dfa3cc), url('/garden.gif');
+    background-image: linear-gradient(to top, #467bbbba, #55dfa3cc), url('../garden.gif');
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 3rem;
